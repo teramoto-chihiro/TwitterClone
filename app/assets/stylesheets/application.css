@@ -14,8 +14,8 @@
  *= require_self
  */
  * {
- 	background-color: black;
- 	color: white;
+ 	background-color: #fff;
+ 	color: #1b95e0;
  	text-align: center;
  	margin: auto;
  }
